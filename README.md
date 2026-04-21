@@ -6,7 +6,7 @@
 
 ## 📊 Power BI Dashboard
 
-![National Air Quality Monitoring Dashboard](dashboard.png)
+![National Air Quality Monitoring Dashboard](./src/assets/dashboard.png)
 
 The dashboard provides an interactive view of:
 - **Average & Maximum AQI** across all cities
